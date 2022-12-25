@@ -1,0 +1,15 @@
+G:\documents\My_Projects\c#\vector_manipulation\bin\Debug\net6.0\vector_manipulation.exe
+G:\documents\My_Projects\c#\vector_manipulation\bin\Debug\net6.0\vector_manipulation.deps.json
+G:\documents\My_Projects\c#\vector_manipulation\bin\Debug\net6.0\vector_manipulation.runtimeconfig.json
+G:\documents\My_Projects\c#\vector_manipulation\bin\Debug\net6.0\vector_manipulation.dll
+G:\documents\My_Projects\c#\vector_manipulation\bin\Debug\net6.0\vector_manipulation.pdb
+G:\documents\My_Projects\c#\vector_manipulation\obj\Debug\net6.0\vector_manipulation.csproj.AssemblyReference.cache
+G:\documents\My_Projects\c#\vector_manipulation\obj\Debug\net6.0\vector_manipulation.GeneratedMSBuildEditorConfig.editorconfig
+G:\documents\My_Projects\c#\vector_manipulation\obj\Debug\net6.0\vector_manipulation.AssemblyInfoInputs.cache
+G:\documents\My_Projects\c#\vector_manipulation\obj\Debug\net6.0\vector_manipulation.AssemblyInfo.cs
+G:\documents\My_Projects\c#\vector_manipulation\obj\Debug\net6.0\vector_manipulation.csproj.CoreCompileInputs.cache
+G:\documents\My_Projects\c#\vector_manipulation\obj\Debug\net6.0\vector_manipulation.dll
+G:\documents\My_Projects\c#\vector_manipulation\obj\Debug\net6.0\refint\vector_manipulation.dll
+G:\documents\My_Projects\c#\vector_manipulation\obj\Debug\net6.0\vector_manipulation.pdb
+G:\documents\My_Projects\c#\vector_manipulation\obj\Debug\net6.0\vector_manipulation.genruntimeconfig.cache
+G:\documents\My_Projects\c#\vector_manipulation\obj\Debug\net6.0\ref\vector_manipulation.dll
